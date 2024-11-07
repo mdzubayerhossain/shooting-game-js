@@ -11,8 +11,8 @@ A fun and simple web-based game built with JavaScript! In **Bird Shooting**, pla
 ## 🛠️ Installation
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/AKmahim/bird-shooting-game-js.git
-   cd bird-shooting-game
+   https://github.com/mdzubayerhossain/shooting-game-js.git
+   cd shooting-game-js
    ```
 
 ## 🕹️ How to Play
